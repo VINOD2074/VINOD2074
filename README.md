@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm VVinod Bhand 
+I'm Vinod Bhand 
 👀I'm Interested in Data Analysis 🌱
 - 🔭 I’m currently working on various Analysis tool
 - 👯 I’m looking to collaborate on Analysis Topics
